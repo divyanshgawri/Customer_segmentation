@@ -1,1 +1,1 @@
-# Customer_ssegmentation
+# Customer_segmentation
